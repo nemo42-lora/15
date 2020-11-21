@@ -182,62 +182,11 @@ http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/7/items/cartoon-network/CartoonNetwork.png"group-title="NIÑOS", Cartoon Network
 http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/14/items/disney-xd/DisneyXD.png"group-title="NIÑOS", Disney XD
-http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/14/items/nick_20200908/Nick.png"group-title="NIÑOS", NICK
 http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/20/items/teen-nick/TeenNick.png"group-title="NIÑOS", Teen Nick
-http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
+http://cinemat#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
+icket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
 http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/33/items/nick-music/NickMusic.png"group-title="NIÑOS", Nick Music
-http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
-http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
-http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="24/7 PREMIUM",Cinema Disney Family ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PREMIUM",Cinema Disney Pixar ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/1/items/bandamax_202009/Bandamax.png"group-title="MUSICA", Bandamax
-http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/29/items/telehit_202009/Telehit.png"group-title="MUSICA", Telehit
-http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/24/items/telehit-urbano/TelehitUrbano.png"group-title="MUSICA", Telehit Urbano
-http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/25/items/mtv_20200908/MTV.png"group-title="MUSICA", MTV
-http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/18/items/mtvhits_202009/MTVHits.png"group-title="MUSICA", MTV HITS
-http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/3/items/vh-1_20200908/Vh1.png"group-title="MUSICA", VH1
-http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
-http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
-http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
-http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
-http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
-http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/27/items/fox-sports-2/FoxSports2.png" group-title="DEPORTES", Fox Sports 2
-http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/18/items/fox-sports-3/FoxSports3.png" group-title="DEPORTES", Fox Sports 3
-http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
-http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES", Claro Sports
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
