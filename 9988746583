@@ -1,4 +1,7 @@
 #EXTM3U
+
+
+
 #EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
 http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
@@ -136,14 +139,7 @@ http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
-http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/22/items/fxm_20200907/FXM.png"group-title="CINE Y SERIES", FXM
-http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Gala TV" tvg-logo="" group-title="",Latino | Gala TV
-http://appstv.us:25461/lozanos/tvmulti/113
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="" group-title="",Latino | Glitz
-http://appstv.us:25461/lozanos/tvmulti/114
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
 http://appstv.us:25461/lozanos/tvmulti/116
@@ -165,9 +161,6 @@ http://appstv.us:25461/lozanos/tvmulti/129
 http://appstv.us:25461/lozanos/tvmulti/122
 #EXTINF:-1 tvg-id="" tvg-name="Latino | TruTV" tvg-logo="" group-title="PERU",Latino | TruTV
 http://appstv.us:25461/lozanos/tvmulti/159
-
-
-
 
 
 
@@ -239,71 +232,6 @@ http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="",Latino | Gol TV
-http://appstv.us:25461/lozanos/tvmulti/115
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="90s" tvg-logo="https://www.vhv.rs/dpng/d/455-4558822_remember-the-90s-musica-90s-dibujo-hd-png.png" group-title="MUSICA",Music Choice| 90s
-http://appstv.us:25461/lozanos/tvmulti/557
-#EXTINF:-1 tvg-id="" tvg-name="Alternative" tvg-logo="https://media.cdnandroid.com/item_images/709995/imagen-alternative-music-0big.jpg" group-title="MUSICA",Music Choice| Alternative
-http://appstv.us:25461/lozanos/tvmulti/558
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Brits   Hits" tvg-logo="" group-title="MUSICA",Music Choice| Brits   Hits
-http://appstv.us:25461/lozanos/tvmulti/559
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Dance/EDM" tvg-logo="" group-title="MUSICA",Music Choice| Dance/EDM
-http://appstv.us:25461/lozanos/tvmulti/560
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hip-Hop and R&B" tvg-logo="" group-title="MUSICA",Music Choice| Hip-Hop and R&B
-http://appstv.us:25461/lozanos/tvmulti/561
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hit List" tvg-logo="" group-title="MUSICA",Music Choice| Hit List
-http://appstv.us:25461/lozanos/tvmulti/562
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Indie" tvg-logo="" group-title="MUSICA",Music Choice| Indie
-http://appstv.us:25461/lozanos/tvmulti/563
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Kidz Only!" tvg-logo="" group-title="MUSICA",Music Choice| Kidz Only!
-http://appstv.us:25461/lozanos/tvmulti/564
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Metal" tvg-logo="" group-title="MUSICA",Music Choice| Metal
-http://appstv.us:25461/lozanos/tvmulti/565
-#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="" group-title="MUSICA",Music Choice| Mexicana
-http://appstv.us:25461/lozanos/tvmulti/566
-#EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="" group-title="MUSICA",Music Choice| Musica Urbana
-http://appstv.us:25461/lozanos/tvmulti/567
-#EXTINF:-1 tvg-id="" tvg-name="Pop & Country" tvg-logo="" group-title="MUSICA",Music Choice| Pop & Country
-http://appstv.us:25461/lozanos/tvmulti/568
-#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="" group-title="MUSICA",Music Choice| Pop Hits
-http://appstv.us:25461/lozanos/tvmulti/569
-#EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="" group-title="MUSICA",Music Choice| Pop Latino
-http://appstv.us:25461/lozanos/tvmulti/570
-#EXTINF:-1 tvg-id="" tvg-name="R&B Soul" tvg-logo="" group-title="MUSICA",Music Choice| R&B Soul
-http://appstv.us:25461/lozanos/tvmulti/571
-#EXTINF:-1 tvg-id="" tvg-name="Rap" tvg-logo="" group-title="MUSICA",Music Choice| Rap
-http://appstv.us:25461/lozanos/tvmulti/572
-#EXTINF:-1 tvg-id="" tvg-name="Rap 2K" tvg-logo="" group-title="MUSICA",Music Choice| Rap 2K
-http://appstv.us:25461/lozanos/tvmulti/573
-#EXTINF:-1 tvg-id="" tvg-name="Rock" tvg-logo="" group-title="MUSICA",Music Choice| Rock
-http://appstv.us:25461/lozanos/tvmulti/574
-#EXTINF:-1 tvg-id="" tvg-name="Teen Beats" tvg-logo="" group-title="MUSICA",Music Choice| Teen Beats
-http://appstv.us:25461/lozanos/tvmulti/575
-#EXTINF:-1 tvg-id="" tvg-name="Throwback Jamz" tvg-logo="" group-title="MUSICA",Music Choice| Throwback Jamz
-http://appstv.us:25461/lozanos/tvmulti/576
-#EXTINF:-1 tvg-id="" tvg-name="Today's Country" tvg-logo="" group-title="MUSICA",Music Choice| Today's Country
-http://appstv.us:25461/lozanos/tvmulti/577
-#EXTINF:-1 tvg-id="" tvg-name="Toddler Tunes" tvg-logo="" group-title="MUSICA",Music Choice| Toddler Tunes
-http://appstv.us:25461/lozanos/tvmulti/578
-#EXTINF:-1 tvg-id="" tvg-name="Tropicales" tvg-logo="" group-title="MUSICA",Music Choice| Tropicales
-http://appstv.us:25461/lozanos/tvmulti/579
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Y2K" tvg-logo="" group-title="MUSICA",Music Choice| Y2K
-http://appstv.us:25461/lozanos/tvmulti/580
-
 
 
 
