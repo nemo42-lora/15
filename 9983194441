@@ -1,1 +1,27 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
+http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
+http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/2/items/a_20200906/A%2B.png"group-title="NACIONAL", A+
+http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/34/items/canal-5/Canal5.png" group-title="NACIONAL", Canal 5
+http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/30/items/imagen_202009/Imagen.png"group-title="NACIONAL", Imagen TV
+http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/12/items/azteca-7/Azteca7.png" group-title="NACIONAL", Azteca 7
+http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/28/items/canal-6/Canal6.png"group-title="NACIONAL", Canal 6
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/nu-9ve/Nu9ve.png"group-title="NACIONAL", Nu9ve
+http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/21/items/mexiquense_202009/Mexiquense.png"group-title="NACIONAL", Mexiquense
+http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/19/items/canal-once/CanalOnce.png"group-title="NACIONAL", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
