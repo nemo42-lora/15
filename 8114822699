@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:0 group-title="Lista TV", Multimedios
-https://edge-linear.spectrum.net/LIVE/1131/dash/cenc/TUDNUH_8283/video5-1869194.m4s
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1 tvg-logo="http://srregio.net/img/img.php" .jpg", SRREGIO.NET
+http://ts.tvcluboficial.com/ts/FoxSportsMX_LD/_17130.ts?ul
