@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:
+#EXTINF:0 group-title="Lista TV", Multimedios
 https://edge-linear.spectrum.net/LIVE/1131/dash/cenc/TUDNUH_8283/video5-1869194.m4s
